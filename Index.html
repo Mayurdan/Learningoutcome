@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="gu">
+<head>
+  <meta charset="UTF-8">
+  <title>દૈનિક બુક એન્ટ્રી</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: "Noto Sans Gujarati", sans-serif;
+      background: linear-gradient(135deg, #e3f2fd, #e8f5e9);
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+    }
+
+    .container {
+      background: #ffffff;
+      margin: 30px;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+      max-width: 1000px;
+      width: 100%;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 32px;
+      font-weight: bold;
+      margin-bottom: 25px;
+      background: linear-gradient(90deg, #1976d2, #388e3c);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .form-group {
+      display: flex;
+      align-items: center;
+      margin: 15px 0;
+    }
+
+    .form-group label {
+      flex: 0 0 200px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #333;
+      text-align: right;
+      padding-right: 20px;
+    }
+
+    .form-group select {
+      flex: 1;
+      padding: 10px;
+      border: 2px solid #90caf9;
+      border-radius: 8px;
+      font-size: 16px;
+      background: #f9f9f9;
+      transition: border-color 0.3s;
+    }
+
+    .form-group select:focus {
+      outline: none;
+      border-color: #42a5f5;
+    }
+
+    .outcome-box {
+      margin-top: 20px;
+    }
+
+    .outcome-box label {
+      display: block;
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: #444;
+    }
+
+    .outcome-box select {
+      width: 100%;
+      height: 220px;
+      padding: 10px;
+      border: 2px solid #81c784;
+      border-radius: 10px;
+      font-size: 16px;
+      background: #f1f8e9;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>શ્રી નળિયા પ્રાથમિક શાળા</h1>
+
+    <div class="form-group">
+      <label for="teacher">શિક્ષકનું નામ પસંદ કરો :</label>
+      <select id="teacher"></select>
+    </div>
+
+    <div class="form-group">
+      <label for="standard">ધોરણ :</label>
+      <select id="standard"></select>
+    </div>
+
+    <div class="form-group">
+      <label for="subject">વિષય :</label>
+      <select id="subject"></select>
+    </div>
+
+    <div class="form-group">
+      <label for="chapter">પાઠ :</label>
+      <select id="chapter"></select>
+    </div>
+
+    <div class="outcome-box">
+      <label for="learningOutcome">નીસ્પત્તિ :</label>
+      <select id="learningOutcome" size="10"></select>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

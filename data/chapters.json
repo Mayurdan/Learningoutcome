@@ -1,0 +1,29 @@
+{
+  "6": {
+    "Maths": ["પ્રકરણ: 1(સંખ્યા પરિચય)", "પ્રકરણ: 2(પુર્ણ સંખ્યાઓ)", "પ્રકરણ: 3(સંખ્યા સાથે રમત)", "પ્રકરણ: 4(ભુમિતીના પાયાના ખ્યાલો)", "પ્રકરણ: 5(પાયાનાં આકારોની સમજુતી)", "પ્રકરણ: 6(પુર્ણાંક સંખ્યાઓ)", "પ્રકરણ: 7(અપૂર્ણાંક સંખ્યાઓ)", "પ્રકરણ: 8(દશાંશ સંખ્યાઓ)", "પ્રકરણ: 9(માહિતીનું નિયમન)", "પ્રકરણ: 10(માપન)", "પ્રકરણ: 11(બીજ ગણિત)", "પ્રકરણ: 12(ગુણોત્તર અને પ્રમાણ)"],
+    "Science": ["પ્રકરણ: 1(આહારના ઘટકો)", "પ્રકરણ: 2(વસ્તુઓના જુથ બનાવવા)", "પ્રકરણ: 3(પદાર્થોનુ અલગીકરણ)", "પ્રકરણ: 4(વનસ્પતિની જાણકારી મેળવીએ)", "પ્રકરણ: 5(શરીરનુ હલનચલન)", "પ્રકરણ: 6(સજીવો - લક્ષણો અને નિવાસ્થાન)", "પ્રકરણ: 7(ગતિ અને અંતરનુ માપન)", "પ્રકરણ: 8(પ્રકાશ, પડછાયો અને પરાવર્તન)", "પ્રકરણ: 9(વિધ્યુત તથા પરિચય)", "પ્રકરણ: 10(ચુંબક સાથે ગમ્મત)", "પ્રકરણ: 11(આપણી આસપાસની હવા)"],
+    "SS": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "Hindi": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "Gujarati": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "English": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "Sanskrit": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"]
+  },
+  "7": {
+    "Maths": ["પ્રકરણ: 1(પુર્ણાંક સંખ્યાઓ)", "પ્રકરણ: 2(અપુર્ણાંક અને દશાંશ સંખ્યાઓ)", "પ્રકરણ: 3(માહિતિનુ નિયમન)", "પ્રકરણ: 4(સાદા સમીકરણ)", "પ્રકરણ: 5(રેખા અને ખુણા)", "પ્રકરણ: 6(ત્રિકોણ અને તેના ગુણધર્મો)", "પ્રકરણ: 7(રાશિઓની તુલના)", "પ્રકરણ: 8(સમેય સંખ્યાઓ)", "પ્રકરણ: 9(પરિમિતિ અને ક્ષેત્રફળ)", "પ્રકરણ: 10(બિજગણિતિય પદાવલિ)", "પ્રકરણ: 11(ઘાત અને ઘાતાંક)", "પ્રકરણ: 12(સંમિતિ)", "પ્રકરણ: 13(ઘન આકારોનુ પ્રત્યક્ષીકરણ)"],
+    "Science": ["પ્રકરણ: 1(વનસ્પતિમા પોષણ)", "પ્રકરણ: 2(પ્રાણીઓમા પોષણ)", "પ્રકરણ: 3(ઉષ્મા)", "પ્રકરણ: 4(એસીડ, બેઇઝ અને ક્ષાર)", "પ્રકરણ: 5(ભૌતિક અને રાસાયણિક ફેરફારો)", "પ્રકરણ: 6(સજીવોમા શ્વસન)", "પ્રકરણ: 7(પ્રાણીઓ અને વનસ્પતિઓમા વહન)", "પ્રકરણ: 8(વનસ્પતિમા પ્રજનન)", "પ્રકરણ: 9(ગતિ અને સમય)", "પ્રકરણ: 10(વિધ્યુતપ્રવાહ અને તેની અસરો)", "પ્રકરણ: 11(પ્રકાશ)", "પ્રકરણ: 12(જંગલૉ)", "પ્રકરણ: 13(દુષિત પાણીની વાર્તા)"],
+    "SS": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "Hindi": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "Gujarati": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "English": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "Sanskrit": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"]
+  },
+  "8": {
+    "Maths": ["પ્રકરણ: 1(સંમેય સંખ્યાઓ)", "પ્રકરણ: 2(એક ચલ સુરેખ સમીકરણ)", "પ્રકરણ: 3(ચતુષ્કોણની સમજ)", "પ્રકરણ: 4(માહિતીનું નિયમન)", "પ્રકરણ: 5(વર્ગ અને વર્ગમૂળ)", "પ્રકરણ: 6(ઘન અને ઘનમૂળ)", "પ્રકરણ: 7(રાશિઓની તુલના)", "પ્રકરણ: 8(બૈજીક પદાવાલીઓ અને નીત્યસમ)", "પ્રકરણ: 9(માપન)", "પ્રકરણ: 10(ઘાત અને ઘાતાંક)", "પ્રકરણ: 11(સમાંપ્રમાન અને વ્યસ્તપ્રમાણ)", "પ્રકરણ: 12(અવયવીકારણ)", "પ્રકરણ: 13(આલેખનો પરિચય)"],
+    "Science": ["પ્રકરણ: 1(પાક ઉત્પાદન અને વ્યવસ્થાપન)", "પ્રકરણ: 2(સુક્ષ્મજીવો : મીત્ર અને શત્રુ)", "પ્રકરણ: 3(કોલસો અને પેટ્રોલીયમ)", "પ્રકરણ: 4(દહન અને જ્યોત)", "પ્રકરણ: 5(વનસ્પતિઓ અને પ્રાણીઓનુ સંરક્ષણ)", "પ્રકરણ: 6(પ્રાણીઓમાં પ્રજનન)", "પ્રકરણ: 7(કિશોરાવસ્થા તરફ)", "પ્રકરણ: 8(બળ અને દબાણ)", "પ્રકરણ: 9(ઘર્ષણ)", "પ્રકરણ: 10(ધ્વનિ)", "પ્રકરણ: 11(વિધ્યુતપ્રવાહની રાસાયણિક અસરો)", "પ્રકરણ: 12(કેટલીક કુદરતી ઘટનાઓ)", "પ્રકરણ: 13(પ્રકાશ)"],
+    "SS": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "Hindi": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "Gujarati": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "English": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
+    "Sanskrit": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"]
+  }
+}
